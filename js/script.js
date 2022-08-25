@@ -1,1 +1,1 @@
-alert('Gratidão!';
+alert('Gratidão!');
