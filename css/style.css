@@ -23,3 +23,7 @@ footer {
 #ultatu {
   text-align: right;
 }
+
+h3 {
+  font-style: inherit;
+}
